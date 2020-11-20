@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "552865800052",
+    "firebase_url": "https://flash-chat-76728.firebaseio.com",
+    "project_id": "flash-chat-76728",
+    "storage_bucket": "flash-chat-76728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552865800052:android:52bbd167f42de46352d621",
+        "android_client_info": {
+          "package_name": "com.massina.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552865800052-50chna8tl3s9rmsuhhtstono84fp11q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCshvoMmhhnbmBcAQxjkiomtR4QUadQX9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552865800052-50chna8tl3s9rmsuhhtstono84fp11q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
